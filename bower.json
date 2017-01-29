@@ -1,0 +1,26 @@
+{
+  "name": "angular-blog",
+  "authors": [
+    "Ronald Theodoro <ronald.silva4@fatec.sp.gov.br>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-route": "^1.6.1",
+    "angular-resource": "^1.6.1",
+    "angular-cookies": "^1.6.1",
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7"
+  }
+}
